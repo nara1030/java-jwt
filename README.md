@@ -51,7 +51,7 @@ JWT
 ### 플로우 차트
 처음 생각했던 개략적인 흐름은 다음과 같다.
 
-<img src="/img/jwt_flow.png" width="600" height="700">
+<img src="/img/jwt_flow.png" width="330" height="400">
 
 ##### [목차로 이동](#목차)
 
@@ -71,7 +71,7 @@ JPA를 사용함으로써 보다 객체지향적인 코드를 짤 수 있었고,
 ### 클래스 다이어그램
 시큐리티 내부 동작은 더 공부가 필요하고, 개략적인 흐름은 다음과 같다.
 
-<img src="/img/jwt_classdiagram.png" width="1200" height="900">
+<img src="/img/jwt_classdiagram.png" width="900" height="550">
 
 ##### [목차로 이동](#목차)
 
