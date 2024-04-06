@@ -75,6 +75,16 @@ JPA를 사용함으로써 보다 객체지향적인 코드를 짤 수 있었고,
 
 ##### [목차로 이동](#목차)
 
+### 결과 스크린샷
+
+<img src="/img/pic_api_list.png" width="350" height="450">
+
+<img src="/img/pic_before_join.png" width="900" height="1500">
+
+<img src="/img/pic_after_join.png" width="900" height="1400">
+
+##### [목차로 이동](#목차)
+
 ## 기타
 
 ### 기록
